@@ -1,8 +1,9 @@
+Main repository: https://github.com/zinovik/fuftyfu-bot
+
 Interface:
 
 ```typescript
 export interface IHedgehog {
-  hedgehogNumber: number;
   where: string[];
   who: string;
   when: string;
