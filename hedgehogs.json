@@ -837,8 +837,8 @@
     "when": "2018.01.01",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849330/hedgehogs/2018.01.01_050_Brest._Santa_Claus.jpg",
     "who": {
-      "en": "Santa Claus",
-      "ru": "Дед Мороз"
+      "en": "🎅 Santa Claus",
+      "ru": "🎅 Дед Мороз"
     },
     "country": {
       "en": "Belarus",
@@ -948,7 +948,7 @@
     },
     "place": {
       "en": "Harelbeke",
-      "ru": "Harelbeke"
+      "ru": "Харелбеке"
     }
   },
   {
@@ -960,8 +960,8 @@
       "ru": "Лена"
     },
     "country": {
-      "en": "Latvia",
-      "ru": "Латвия"
+      "en": "🇱🇻 Latvia",
+      "ru": "🇱🇻 Латвия"
     },
     "place": {
       "en": "Riga",
