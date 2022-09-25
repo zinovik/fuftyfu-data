@@ -4,9 +4,20 @@ Interface:
 
 ```typescript
 interface IHedgehog {
-  where: string[];
-  who: string;
+  id: number;
   when: string;
-  url: string;
+  photo: string;
+  who: {
+    [language: string]: string;
+  };
+  country: {
+    [language: string]: string;
+  };
+  place: {
+    [language: string]: string;
+  };
+  comment?: {
+    [language: string]: string;
+  };
 }
 ```
