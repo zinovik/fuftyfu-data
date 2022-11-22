@@ -19,5 +19,6 @@ interface IHedgehog {
   comment?: {
     [language: string]: string;
   };
+  coordinates: number[];
 }
 ```

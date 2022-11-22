@@ -3,1414 +3,777 @@
     "id": 1,
     "when": "2013.05.XX",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849316/hedgehogs/2013.05.XX_001_Brest._Natasha_and_Tanja.jpg",
-    "who": {
-      "en": "Natasha and Tanja",
-      "ru": "Наташа и Таня"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Brest",
-      "ru": "Брест"
-    }
+    "who": { "en": "Natasha and Tanja", "ru": "Наташа и Таня" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Brest", "ru": "Брест" },
+    "coordinates": [23.7636662, 52.0996507]
   },
   {
     "id": 2,
     "when": "2013.07.29",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849317/hedgehogs/2013.07.29_002_Lviv._Max.jpg",
-    "who": {
-      "en": "Max",
-      "ru": "Макс"
-    },
-    "country": {
-      "en": "🇺🇦 Ukraine",
-      "ru": "🇺🇦 Украина"
-    },
-    "place": {
-      "en": "Lviv",
-      "ru": "Львов"
-    }
+    "who": { "en": "Max", "ru": "Макс" },
+    "country": { "en": "🇺🇦 Ukraine", "ru": "🇺🇦 Украина" },
+    "place": { "en": "Lviv", "ru": "Львов" },
+    "coordinates": [24.029717, 49.839683]
   },
   {
     "id": 3,
     "when": "2013.08.XX",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849317/hedgehogs/2013.08.XX_003_Krym._Roma_and_Lena.jpg",
-    "who": {
-      "en": "Roma and Lena",
-      "ru": "Рома и Лена"
-    },
-    "country": {
-      "en": "🇺🇦 Ukraine",
-      "ru": "🇺🇦 Украина"
-    },
-    "place": {
-      "en": "Crimea",
-      "ru": "Крым"
-    }
+    "who": { "en": "Roma and Lena", "ru": "Рома и Лена" },
+    "country": { "en": "🇺🇦 Ukraine", "ru": "🇺🇦 Украина" },
+    "place": { "en": "Crimea", "ru": "Крым" },
+    "coordinates": [34.4997274, 45.3453029]
   },
   {
     "id": 4,
     "when": "2013.10.XX",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849317/hedgehogs/2013.10.XX_004_Nyasvizh._Roma_and_Lena.jpg",
-    "who": {
-      "en": "Roma and Lena",
-      "ru": "Рома и Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Nesvizh",
-      "ru": "Несвиж"
-    }
+    "who": { "en": "Roma and Lena", "ru": "Рома и Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Nesvizh", "ru": "Несвиж" },
+    "coordinates": [26.6766666, 53.2226534]
   },
   {
     "id": 5,
     "when": "2014.01.XX",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849317/hedgehogs/2014.01.XX_005_Brest._Roma_and_Lena.jpg",
-    "who": {
-      "en": "Roma and Lena",
-      "ru": "Рома и Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Brest",
-      "ru": "Брест"
-    }
+    "who": { "en": "Roma and Lena", "ru": "Рома и Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Brest", "ru": "Брест" },
+    "coordinates": [23.7636662, 52.0996507]
   },
   {
     "id": 6,
     "when": "2014.04.12",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849319/hedgehogs/2014.04.12_006_Mir._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Mir",
-      "ru": "Мир"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Mir", "ru": "Мир" },
+    "coordinates": [26.4652001, 53.4532454]
   },
   {
     "id": 7,
     "when": "2014.04.12",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849318/hedgehogs/2014.04.12_007_Nyasvizh_Mir_1._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Nesvizh & Mir 1",
-      "ru": "Несвиж и Мир 1"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Nesvizh & Mir 1", "ru": "Несвиж и Мир 1" },
+    "coordinates": [26.539334, 53.3148815]
   },
   {
     "id": 8,
     "when": "2014.04.12",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849318/hedgehogs/2014.04.12_008_Nyasvizh_Mir_2._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Nesvizh & Mir 2",
-      "ru": "Несвиж и Мир 2"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Nesvizh & Mir 2", "ru": "Несвиж и Мир 2" },
+    "coordinates": [26.539334, 53.3148815]
   },
   {
     "id": 9,
     "when": "2014.04.22",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849320/hedgehogs/2014.04.22_009_Hrodna._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Grodno",
-      "ru": "Гродно"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Grodno", "ru": "Гродно" },
+    "coordinates": [23.8222673, 53.6687634]
   },
   {
     "id": 10,
     "when": "2014.04.24",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849320/hedgehogs/2014.04.24_010_Polatsk._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Polotsk",
-      "ru": "Полоцк"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Polotsk", "ru": "Полоцк" },
+    "coordinates": [28.7781625, 55.4845795]
   },
   {
     "id": 11,
     "when": "2014.04.25",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849321/hedgehogs/2014.04.25_011_Mensk._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Minsk",
-      "ru": "Минск"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Minsk", "ru": "Минск" },
+    "coordinates": [27.558972, 53.9006011]
   },
   {
     "id": 12,
     "when": "2014.06.XX",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849321/hedgehogs/2014.06.XX_012_Brest._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Brest",
-      "ru": "Брест"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Brest", "ru": "Брест" },
+    "coordinates": [23.7636662, 52.0996507]
   },
   {
     "id": 13,
     "when": "2014.06.XX",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849316/hedgehogs/2014.06.XX_013_Brest._Max.jpg",
-    "who": {
-      "en": "Max",
-      "ru": "Макс"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Brest",
-      "ru": "Брест"
-    }
+    "who": { "en": "Max", "ru": "Макс" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Brest", "ru": "Брест" },
+    "coordinates": [23.7636662, 52.0996507]
   },
   {
     "id": 14,
     "when": "2014.08.18",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849316/hedgehogs/2014.08.18_014_Rechytsa._Max.jpg",
-    "who": {
-      "en": "Max",
-      "ru": "Макс"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Rechitsa",
-      "ru": "Речица"
-    }
+    "who": { "en": "Max", "ru": "Макс" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Rechitsa", "ru": "Речица" },
+    "coordinates": [30.3958802, 52.3678183]
   },
   {
     "id": 15,
     "when": "2014.08.ХХ",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849317/hedgehogs/2014.08.XX_015_Brest._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Brest",
-      "ru": "Брест"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Brest", "ru": "Брест" },
+    "coordinates": [23.7636662, 52.0996507]
   },
   {
     "id": 16,
     "when": "2014.09.0X",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849316/hedgehogs/2014.09.0X_016_Hrodna._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Grodno",
-      "ru": "Гродно"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Grodno", "ru": "Гродно" },
+    "coordinates": [23.8222673, 53.6687634]
   },
   {
     "id": 17,
     "when": "2015.01.02",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849318/hedgehogs/2015.01.02_017_Moscow._Vitalik.jpg",
-    "who": {
-      "en": "Vitalik",
-      "ru": "Виталик"
-    },
-    "country": {
-      "en": "🇷🇺 Russia",
-      "ru": "🇷🇺 Россия"
-    },
-    "place": {
-      "en": "Moskva",
-      "ru": "Москва"
-    }
+    "who": { "en": "Vitalik", "ru": "Виталик" },
+    "country": { "en": "🇷🇺 Russia", "ru": "🇷🇺 Россия" },
+    "place": { "en": "Moscow", "ru": "Москва" },
+    "coordinates": [37.6173, 55.755826]
   },
   {
     "id": 18,
     "when": "2015.01.31",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849319/hedgehogs/2015.01.31_018_Biala_Podlaska._Max.jpg",
-    "who": {
-      "en": "Max",
-      "ru": "Макс"
-    },
-    "country": {
-      "en": "🇵🇱 Poland",
-      "ru": "🇵🇱 Польша"
-    },
-    "place": {
-      "en": "Biala Podlaska",
-      "ru": "Бяла-Подляска"
-    }
+    "who": { "en": "Max", "ru": "Макс" },
+    "country": { "en": "🇵🇱 Poland", "ru": "🇵🇱 Польша" },
+    "place": { "en": "Biala Podlaska", "ru": "Бяла-Подляска" },
+    "coordinates": [23.1445026, 52.0387126]
   },
   {
     "id": 19,
     "when": "2015.02.14",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849319/hedgehogs/2015.02.14_019_Brest._Max.jpg",
-    "who": {
-      "en": "Max",
-      "ru": "Макс"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Brest",
-      "ru": "Брест"
-    }
+    "who": { "en": "Max", "ru": "Макс" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Brest", "ru": "Брест" },
+    "coordinates": [23.7636662, 52.0996507]
   },
   {
     "id": 20,
     "when": "2015.03.08",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849320/hedgehogs/2015.03.08_020_Brest._Max.jpg",
-    "who": {
-      "en": "Max",
-      "ru": "Макс"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Brest",
-      "ru": "Брест"
-    }
+    "who": { "en": "Max", "ru": "Макс" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Brest", "ru": "Брест" },
+    "coordinates": [23.7636662, 52.0996507]
   },
   {
     "id": 21,
     "when": "2015.03.30",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849320/hedgehogs/2015.03.30_021_Terespol._Max.jpg",
-    "who": {
-      "en": "Max",
-      "ru": "Макс"
-    },
-    "country": {
-      "en": "🇵🇱 Poland",
-      "ru": "🇵🇱 Польша"
-    },
-    "place": {
-      "en": "Terespol",
-      "ru": "Тересполь"
-    }
+    "who": { "en": "Max", "ru": "Макс" },
+    "country": { "en": "🇵🇱 Poland", "ru": "🇵🇱 Польша" },
+    "place": { "en": "Terespol", "ru": "Тересполь" },
+    "coordinates": [23.6080719, 52.0732257]
   },
   {
     "id": 22,
     "when": "2015.04.24",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849321/hedgehogs/2015.04.24_022_Moscow._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇷🇺 Russia",
-      "ru": "🇷🇺 Россия"
-    },
-    "place": {
-      "en": "Moskva",
-      "ru": "Москва"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇷🇺 Russia", "ru": "🇷🇺 Россия" },
+    "place": { "en": "Moscow", "ru": "Москва" },
+    "coordinates": [37.6173, 55.755826]
   },
   {
     "id": 23,
     "when": "2015.04.28",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849321/hedgehogs/2015.04.28_023_Oberhof._Irka.jpg",
-    "who": {
-      "en": "Irka",
-      "ru": "Ирка"
-    },
-    "country": {
-      "en": "🇩🇪 Germany",
-      "ru": "🇩🇪 Германия"
-    },
-    "place": {
-      "en": "Oberhof",
-      "ru": "Оберхоф"
-    }
+    "who": { "en": "Irka", "ru": "Ирка" },
+    "country": { "en": "🇩🇪 Germany", "ru": "🇩🇪 Германия" },
+    "place": { "en": "Oberhof", "ru": "Оберхоф" },
+    "coordinates": [10.7256946, 50.7063007]
   },
   {
     "id": 24,
     "when": "2015.05.23",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849321/hedgehogs/2015.05.23_024_Brest._Hristina.jpg",
-    "who": {
-      "en": "Hristina",
-      "ru": "Христина"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Brest",
-      "ru": "Брест"
-    }
+    "who": { "en": "Hristina", "ru": "Христина" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Brest", "ru": "Брест" },
+    "coordinates": [23.7636662, 52.0996507]
   },
   {
     "id": 25,
     "when": "2015.05.24",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849322/hedgehogs/2015.05.24_025_Brest._Max.jpg",
-    "who": {
-      "en": "Max",
-      "ru": "Макс"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Brest",
-      "ru": "Брест"
-    }
+    "who": { "en": "Max", "ru": "Макс" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Brest", "ru": "Брест" },
+    "coordinates": [23.7636662, 52.0996507]
   },
   {
     "id": 26,
     "when": "2015.06.14",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849322/hedgehogs/2015.06.14_026_Krakow._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇵🇱 Poland",
-      "ru": "🇵🇱 Польша"
-    },
-    "place": {
-      "en": "Krakow",
-      "ru": "Краков"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇵🇱 Poland", "ru": "🇵🇱 Польша" },
+    "place": { "en": "Krakow", "ru": "Краков" },
+    "coordinates": [19.9449799, 50.0646501]
   },
   {
     "id": 27,
     "when": "2015.06.20",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849322/hedgehogs/2015.06.20_027_Dudutki._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Dudutki",
-      "ru": "Дудутки"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Ptich", "ru": "Птич" },
+    "comment": { "en": "Dudutki", "ru": "Дудутки" },
+    "coordinates": [27.6832218, 53.5962212]
   },
   {
     "id": 28,
     "when": "2015.08.15",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849323/hedgehogs/2015.08.15_028_Vilnius._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇱🇹 Lithuania",
-      "ru": "🇱🇹 Литва"
-    },
-    "place": {
-      "en": "Vilnius",
-      "ru": "Вильнюс"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇱🇹 Lithuania", "ru": "🇱🇹 Литва" },
+    "place": { "en": "Vilnius", "ru": "Вильнюс" },
+    "coordinates": [25.2796514, 54.6871555]
   },
   {
     "id": 29,
     "when": "2015.08.16",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849323/hedgehogs/2015.08.16_029_Trakai._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇱🇹 Lithuania",
-      "ru": "🇱🇹 Литва"
-    },
-    "place": {
-      "en": "Trakai",
-      "ru": "Тракай"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇱🇹 Lithuania", "ru": "🇱🇹 Литва" },
+    "place": { "en": "Trakai", "ru": "Тракай" },
+    "coordinates": [24.9346894, 54.6379113]
   },
   {
     "id": 30,
     "when": "2015.08.29",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849323/hedgehogs/2015.08.29_030_Saint_Petersburg._Roma_and_Lena.jpg",
-    "who": {
-      "en": "Roma and Lena",
-      "ru": "Roma and Lena"
-    },
-    "country": {
-      "en": "🇷🇺 Russia",
-      "ru": "🇷🇺 Россия"
-    },
-    "place": {
-      "en": "Saint Petersburg",
-      "ru": "Санкт-Петербург"
-    }
+    "who": { "en": "Roma and Lena", "ru": "Roma and Lena" },
+    "country": { "en": "🇷🇺 Russia", "ru": "🇷🇺 Россия" },
+    "place": { "en": "Saint Petersburg", "ru": "Санкт-Петербург" },
+    "coordinates": [30.3609097, 59.9310584]
   },
   {
     "id": 31,
     "when": "2015.12.31",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849324/hedgehogs/2015.12.31_031_Praha_1._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇨🇿 Czech Republic",
-      "ru": "🇨🇿 Чехия"
-    },
-    "place": {
-      "en": "Praha 1",
-      "ru": "Прага 1"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇨🇿 Czech Republic", "ru": "🇨🇿 Чехия" },
+    "place": { "en": "Praha 1", "ru": "Прага 1" },
+    "coordinates": [14.4378005, 50.0755381]
   },
   {
     "id": 32,
     "when": "2015.12.31",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849324/hedgehogs/2015.12.31_032_Praha_2._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇨🇿 Czech Republic",
-      "ru": "🇨🇿 Чехия"
-    },
-    "place": {
-      "en": "Praha 2",
-      "ru": "Прага 2"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇨🇿 Czech Republic", "ru": "🇨🇿 Чехия" },
+    "place": { "en": "Praha 2", "ru": "Прага 2" },
+    "coordinates": [14.4378005, 50.0755381]
   },
   {
     "id": 33,
     "when": "2016.02.13",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849324/hedgehogs/2016.02.13_033_Warszawa._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇵🇱 Poland",
-      "ru": "🇵🇱 Польша"
-    },
-    "place": {
-      "en": "Warsaw",
-      "ru": "Варшава"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇵🇱 Poland", "ru": "🇵🇱 Польша" },
+    "place": { "en": "Warsaw", "ru": "Варшава" },
+    "coordinates": [21.0122287, 52.2296756]
   },
   {
     "id": 34,
     "when": "2016.02.14",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849324/hedgehogs/2016.02.14_034_Gdansk._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇵🇱 Poland",
-      "ru": "🇵🇱 Польша"
-    },
-    "place": {
-      "en": "Gdansk",
-      "ru": "Гданьск"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇵🇱 Poland", "ru": "🇵🇱 Польша" },
+    "place": { "en": "Gdansk", "ru": "Гданьск" },
+    "coordinates": [18.6466384, 54.3520252]
   },
   {
     "id": 35,
     "when": "2016.02.14",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849324/hedgehogs/2016.02.14_035_Gdynia._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇵🇱 Poland",
-      "ru": "🇵🇱 Польша"
-    },
-    "place": {
-      "en": "Gdynia",
-      "ru": "Гдыня"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇵🇱 Poland", "ru": "🇵🇱 Польша" },
+    "place": { "en": "Gdynia", "ru": "Гдыня" },
+    "coordinates": [18.5305409, 54.5188898]
   },
   {
     "id": 36,
     "when": "2016.02.19",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849325/hedgehogs/2016.02.19_036_Brest._Kirill.jpg",
-    "who": {
-      "en": "Kirill",
-      "ru": "Kirill"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Brest",
-      "ru": "Брест"
-    }
+    "who": { "en": "Kirill", "ru": "Kirill" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Brest", "ru": "Брест" },
+    "coordinates": [23.7636662, 52.0996507]
   },
   {
     "id": 37,
     "when": "2016.06.25",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849325/hedgehogs/2016.06.25_037_Kamarova._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Komarovo",
-      "ru": "Комарово"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Urozhainaya", "ru": "Урожайная" },
+    "comment": { "en": "Komarovo", "ru": "Комарово" },
+    "coordinates": [27.5053303, 53.7894341]
   },
   {
     "id": 38,
     "when": "2016.07.10",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849327/hedgehogs/2016.07.10_038_Kyiv._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇺🇦 Ukraine",
-      "ru": "🇺🇦 Украина"
-    },
-    "place": {
-      "en": "Kyiv",
-      "ru": "Киев"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇺🇦 Ukraine", "ru": "🇺🇦 Украина" },
+    "place": { "en": "Kyiv", "ru": "Киев" },
+    "coordinates": [30.5234, 50.4501]
   },
   {
     "id": 39,
     "when": "2016.07.12",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849326/hedgehogs/2016.07.12_039_Canada._Andrey.jpg",
-    "who": {
-      "en": "Andrey",
-      "ru": "Andrey"
-    },
-    "country": {
-      "en": "🇨🇦 Canada",
-      "ru": "🇨🇦 Канада"
-    },
-    "place": {
-      "en": "Edmonton",
-      "ru": "Эдмонтон"
-    }
+    "who": { "en": "Andrey", "ru": "Andrey" },
+    "country": { "en": "🇨🇦 Canada", "ru": "🇨🇦 Канада" },
+    "place": { "en": "Edmonton", "ru": "Эдмонтон" },
+    "coordinates": [-113.4937266, 53.5460983]
   },
   {
     "id": 40,
     "when": "2016.07.17",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849327/hedgehogs/2016.07.17_040_Odesa._Max.jpg",
-    "who": {
-      "en": "Max",
-      "ru": "Макс"
-    },
-    "country": {
-      "en": "🇺🇦 Ukraine",
-      "ru": "🇺🇦 Украина"
-    },
-    "place": {
-      "en": "Odesa",
-      "ru": "Одесса"
-    }
+    "who": { "en": "Max", "ru": "Макс" },
+    "country": { "en": "🇺🇦 Ukraine", "ru": "🇺🇦 Украина" },
+    "place": { "en": "Odesa", "ru": "Одесса" },
+    "coordinates": [30.7233095, 46.482526]
   },
   {
     "id": 41,
     "when": "2016.10.29",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849328/hedgehogs/2016.10.29_041_Brest._Max.jpg",
-    "who": {
-      "en": "Max",
-      "ru": "Макс"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Brest",
-      "ru": "Брест"
-    }
+    "who": { "en": "Max", "ru": "Макс" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Brest", "ru": "Брест" },
+    "coordinates": [23.7636662, 52.0996507]
   },
   {
     "id": 42,
     "when": "2016.12.27",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849328/hedgehogs/2016.12.27_042_Munchen._Sashka.jpg",
-    "who": {
-      "en": "Sashka",
-      "ru": "Сашка"
-    },
-    "country": {
-      "en": "🇩🇪 Germany",
-      "ru": "🇩🇪 Германия"
-    },
-    "place": {
-      "en": "Munchen",
-      "ru": "Мюнхен"
-    }
+    "who": { "en": "Sashka", "ru": "Сашка" },
+    "country": { "en": "🇩🇪 Germany", "ru": "🇩🇪 Германия" },
+    "place": { "en": "Munchen", "ru": "Мюнхен" },
+    "coordinates": [11.5819806, 48.1351253]
   },
   {
     "id": 43,
     "when": "2017.01.01",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849328/hedgehogs/2017.01.01_043_Uzhgorod._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇺🇦 Ukraine",
-      "ru": "🇺🇦 Украина"
-    },
-    "place": {
-      "en": "Uzhgorod",
-      "ru": "Ужгород"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇺🇦 Ukraine", "ru": "🇺🇦 Украина" },
+    "place": { "en": "Uzhgorod", "ru": "Ужгород" },
+    "coordinates": [22.287883, 48.6208]
   },
   {
     "id": 44,
     "when": "2017.01.02",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849328/hedgehogs/2017.01.02_044_Lviv._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇺🇦 Ukraine",
-      "ru": "🇺🇦 Украина"
-    },
-    "place": {
-      "en": "Lviv",
-      "ru": "Львов"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇺🇦 Ukraine", "ru": "🇺🇦 Украина" },
+    "place": { "en": "Lviv", "ru": "Львов" },
+    "coordinates": [24.029717, 49.839683]
   },
   {
     "id": 45,
     "when": "2017.01.11",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849329/hedgehogs/2017.01.11_045_Watsonville._Sandra.jpg",
-    "who": {
-      "en": "Sandra",
-      "ru": "Sandra"
-    },
+    "who": { "en": "Sandra", "ru": "Sandra" },
     "country": {
       "en": "🇺🇸 United States of America",
       "ru": "🇺🇸 Соединённые Штаты Америки"
     },
-    "place": {
-      "en": "Watsonville",
-      "ru": "Уотсонвилл"
-    }
+    "place": { "en": "Watsonville", "ru": "Уотсонвилл" },
+    "comment": { "en": "Secret Santa", "ru": "Тайный Санта" },
+    "coordinates": [-121.7568946, 36.910231]
   },
   {
     "id": 46,
     "when": "2017.01.20",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849329/hedgehogs/2017.01.20_046_Brest._Natashka.jpg",
-    "who": {
-      "en": "Natashka",
-      "ru": "Natashka"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Brest",
-      "ru": "Брест"
-    }
+    "who": { "en": "Natashka", "ru": "Natashka" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Brest", "ru": "Брест" },
+    "coordinates": [23.7636662, 52.0996507]
   },
   {
     "id": 47,
     "when": "2017.02.16",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849330/hedgehogs/2017.02.16_047_Bukovel._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇺🇦 Ukraine",
-      "ru": "🇺🇦 Украина"
-    },
-    "place": {
-      "en": "Bukovel",
-      "ru": "Буковель"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇺🇦 Ukraine", "ru": "🇺🇦 Украина" },
+    "place": { "en": "Bukovel", "ru": "Буковель" },
+    "coordinates": [24.392222, 48.360278]
   },
   {
     "id": 48,
     "when": "2017.06.26",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849330/hedgehogs/2017.06.26_048_Saint_Petersburg._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇷🇺 Russia",
-      "ru": "🇷🇺 Россия"
-    },
-    "place": {
-      "en": "Saint Petersburg",
-      "ru": "Санкт-Петербург"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇷🇺 Russia", "ru": "🇷🇺 Россия" },
+    "place": { "en": "Saint Petersburg", "ru": "Санкт-Петербург" },
+    "coordinates": [30.3609097, 59.9310584]
   },
   {
     "id": 49,
     "when": "2017.09.30",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849332/hedgehogs/2017.09.30_049_Aarhus._Irka.jpg",
-    "who": {
-      "en": "Irka",
-      "ru": "Ирка"
-    },
-    "country": {
-      "en": "🇩🇰 Denmark",
-      "ru": "🇩🇰 Дания"
-    },
-    "place": {
-      "en": "Aarhus",
-      "ru": "Aarhus"
-    }
+    "who": { "en": "Irka", "ru": "Ирка" },
+    "country": { "en": "🇩🇰 Denmark", "ru": "🇩🇰 Дания" },
+    "place": { "en": "Aarhus", "ru": "Aarhus" },
+    "coordinates": [10.203921, 56.162939]
   },
   {
     "id": 50,
     "when": "2018.01.01",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849330/hedgehogs/2018.01.01_050_Brest._Santa_Claus.jpg",
-    "who": {
-      "en": "🎅 Santa Claus",
-      "ru": "🎅 Дед Мороз"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Brest",
-      "ru": "Брест"
-    }
+    "who": { "en": "🎅 Santa Claus", "ru": "🎅 Дед Мороз" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Brest", "ru": "Брест" },
+    "coordinates": [23.7636662, 52.0996507]
   },
   {
     "id": 51,
     "when": "2018.01.27",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849331/hedgehogs/2018.01.27_051_Vilnius._Vitalik.jpg",
-    "who": {
-      "en": "Vitalik",
-      "ru": "Виталик"
-    },
-    "country": {
-      "en": "🇱🇹 Lithuania",
-      "ru": "🇱🇹 Литва"
-    },
-    "place": {
-      "en": "Vilnius",
-      "ru": "Вильнюс"
-    }
+    "who": { "en": "Vitalik", "ru": "Виталик" },
+    "country": { "en": "🇱🇹 Lithuania", "ru": "🇱🇹 Литва" },
+    "place": { "en": "Vilnius", "ru": "Вильнюс" },
+    "coordinates": [25.2796514, 54.6871555]
   },
   {
     "id": 52,
     "when": "2018.01.31",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849331/hedgehogs/2018.01.31_052_Bukovel._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇺🇦 Ukraine",
-      "ru": "🇺🇦 Украина"
-    },
-    "place": {
-      "en": "Bukovel",
-      "ru": "Буковель"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇺🇦 Ukraine", "ru": "🇺🇦 Украина" },
+    "place": { "en": "Bukovel", "ru": "Буковель" },
+    "coordinates": [24.392222, 48.360278]
   },
   {
     "id": 53,
     "when": "2018.05.05",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849332/hedgehogs/2018.05.05_053_Trier._Natasha.jpg",
-    "who": {
-      "en": "Natasha",
-      "ru": "Наташа"
-    },
-    "country": {
-      "en": "🇩🇪 Germany",
-      "ru": "🇩🇪 Германия"
-    },
-    "place": {
-      "en": "Trier",
-      "ru": "Трир"
-    }
+    "who": { "en": "Natasha", "ru": "Наташа" },
+    "country": { "en": "🇩🇪 Germany", "ru": "🇩🇪 Германия" },
+    "place": { "en": "Trier", "ru": "Трир" },
+    "coordinates": [6.6371433, 49.749992]
   },
   {
     "id": 54,
     "when": "2018.08.12",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849333/hedgehogs/2018.08.12_054_Pinsk._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Pinsk",
-      "ru": "Пинск"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Pinsk", "ru": "Пинск" },
+    "coordinates": [26.1016778, 52.1181686]
   },
   {
     "id": 55,
     "when": "2018.09.20",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849333/hedgehogs/2018.09.20_055_Warsaw._Sergey_and_Masha.jpg",
-    "who": {
-      "en": "Sergey and Masha",
-      "ru": "Сергей и Маша"
-    },
-    "country": {
-      "en": "🇵🇱 Poland",
-      "ru": "🇵🇱 Польша"
-    },
-    "place": {
-      "en": "Warsaw",
-      "ru": "Варшава"
-    }
+    "who": { "en": "Sergey and Masha", "ru": "Сергей и Маша" },
+    "country": { "en": "🇵🇱 Poland", "ru": "🇵🇱 Польша" },
+    "place": { "en": "Warsaw", "ru": "Варшава" },
+    "coordinates": [21.0122287, 52.2296756]
   },
   {
     "id": 56,
     "when": "2018.10.16",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849332/hedgehogs/2018.10.16_056_Harelbeke._Artur.jpg",
-    "who": {
-      "en": "Artur",
-      "ru": "Артур"
-    },
-    "country": {
-      "en": "🇧🇪 Belgium",
-      "ru": "🇧🇪 Бельгия"
-    },
-    "place": {
-      "en": "Harelbeke",
-      "ru": "Харелбеке"
-    }
+    "who": { "en": "Artur", "ru": "Артур" },
+    "country": { "en": "🇧🇪 Belgium", "ru": "🇧🇪 Бельгия" },
+    "place": { "en": "Harelbeke", "ru": "Харелбеке" },
+    "coordinates": [3.3107149, 50.8566979]
   },
   {
     "id": 57,
     "when": "2018.11.17",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849333/hedgehogs/2018.11.17_057_Riga._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇱🇻 Latvia",
-      "ru": "🇱🇻 Латвия"
-    },
-    "place": {
-      "en": "Riga",
-      "ru": "Рига"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇱🇻 Latvia", "ru": "🇱🇻 Латвия" },
+    "place": { "en": "Riga", "ru": "Рига" },
+    "coordinates": [24.1056221, 56.9676941]
   },
   {
     "id": 58,
     "when": "2018.12.31",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849337/hedgehogs/2018.12.31_058_Vienna._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇦🇹 Austria",
-      "ru": "🇦🇹 Австрия"
-    },
-    "place": {
-      "en": "Vienna",
-      "ru": "Вена"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇦🇹 Austria", "ru": "🇦🇹 Австрия" },
+    "place": { "en": "Vienna", "ru": "Вена" },
+    "coordinates": [16.3738189, 48.2081743]
   },
   {
     "id": 59,
     "when": "2019.01.01",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849334/hedgehogs/2019.01.01_059_Budapest._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇭🇺 Hungary",
-      "ru": "🇭🇺 Венгрия"
-    },
-    "place": {
-      "en": "Budapest",
-      "ru": "Будапешт"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇭🇺 Hungary", "ru": "🇭🇺 Венгрия" },
+    "place": { "en": "Budapest", "ru": "Будапешт" },
+    "coordinates": [19.040235, 47.497912]
   },
   {
     "id": 60,
     "when": "2019.05.07",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1557849335/hedgehogs/2019.05.07_060_Yaremche._Max.jpg",
-    "who": {
-      "en": "Max",
-      "ru": "Макс"
-    },
-    "country": {
-      "en": "🇺🇦 Ukraine",
-      "ru": "🇺🇦 Украина"
-    },
-    "place": {
-      "en": "Yaremche",
-      "ru": "Яремче"
-    }
+    "who": { "en": "Max", "ru": "Макс" },
+    "country": { "en": "🇺🇦 Ukraine", "ru": "🇺🇦 Украина" },
+    "place": { "en": "Yaremche", "ru": "Яремче" },
+    "coordinates": [24.5819174, 48.481557]
   },
   {
     "id": 61,
     "when": "2019.07.14",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1563211536/hedgehogs/2019.07.14_061_Svityaz._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇺🇦 Ukraine",
-      "ru": "🇺🇦 Украина"
-    },
-    "place": {
-      "en": "Svityaz",
-      "ru": "Свитязь"
-    },
-    "comment": {
-      "en": "Hryada",
-      "ru": "Гряда"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇺🇦 Ukraine", "ru": "🇺🇦 Украина" },
+    "place": { "en": "Svityaz", "ru": "Свитязь" },
+    "comment": { "en": "Hryada", "ru": "Гряда" },
+    "coordinates": [23.8660788, 51.4839933]
   },
   {
     "id": 62,
     "when": "2019.07.21",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1563774314/hedgehogs/2019.07.21_062_Palanga._Sergey_and_Masha.jpg",
-    "who": {
-      "en": "Sergey and Masha",
-      "ru": "Сергей и Маша"
-    },
-    "country": {
-      "en": "🇱🇹 Lithuania",
-      "ru": "🇱🇹 Литва"
-    },
-    "place": {
-      "en": "Palanga",
-      "ru": "Паланга"
-    }
+    "who": { "en": "Sergey and Masha", "ru": "Сергей и Маша" },
+    "country": { "en": "🇱🇹 Lithuania", "ru": "🇱🇹 Литва" },
+    "place": { "en": "Palanga", "ru": "Паланга" },
+    "coordinates": [21.0677615, 55.920198]
   },
   {
     "id": 63,
     "when": "2019.08.03",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1565067796/hedgehogs/2019.08.03_063_Kamianets-Podilskyi._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇺🇦 Ukraine",
-      "ru": "🇺🇦 Украина"
-    },
-    "place": {
-      "en": "Kamianets-Podilskyi",
-      "ru": "Каменец-Подольский"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇺🇦 Ukraine", "ru": "🇺🇦 Украина" },
+    "place": { "en": "Kamianets-Podilskyi", "ru": "Каменец-Подольский" },
+    "coordinates": [26.5825364, 48.6967162]
   },
   {
     "id": 64,
     "when": "2019.08.17",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1566155641/hedgehogs/2019.08.18_064_Belovezhskaya_Pushcha._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Belovezhskaya Pushcha",
-      "ru": "Беловежская пуща"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Belovezhskaya Pushcha", "ru": "Беловежская пуща" },
+    "coordinates": [23.8029662, 52.5692797]
   },
   {
     "id": 65,
     "when": "2019.10.08",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1570953719/hedgehogs/2019.10.08_065_Mount_Vesuvius._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇮🇹 Italy",
-      "ru": "🇮🇹 Италия"
-    },
-    "place": {
-      "en": "Vesuvius",
-      "ru": "Везувий"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇮🇹 Italy", "ru": "🇮🇹 Италия" },
+    "place": { "en": "Vesuvius", "ru": "Везувий" },
+    "coordinates": [14.4289058, 40.822383]
   },
   {
     "id": 66,
     "when": "2019.11.09",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1573562629/hedgehogs/2019.11.09_066_Stockholm._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇸🇪 Sweden",
-      "ru": "🇸🇪 Швеция"
-    },
-    "place": {
-      "en": "Stockholm",
-      "ru": "Стокгольм"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇸🇪 Sweden", "ru": "🇸🇪 Швеция" },
+    "place": { "en": "Stockholm", "ru": "Стокгольм" },
+    "coordinates": [18.0685808, 59.3293235]
   },
   {
     "id": 67,
     "when": "2020.01.10",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1578827227/hedgehogs/2020.01.10_067_Venice-Juliano._Natasha.jpg",
-    "who": {
-      "en": "Natasha",
-      "ru": "Наташа"
-    },
-    "country": {
-      "en": "🇮🇹 Italy",
-      "ru": "🇮🇹 Италия"
-    },
-    "place": {
-      "en": "Venice",
-      "ru": "Венеция"
-    },
-    "comment": {
-      "en": "Juliano",
-      "ru": "Джулиано"
-    }
+    "who": { "en": "Natasha", "ru": "Наташа" },
+    "country": { "en": "🇮🇹 Italy", "ru": "🇮🇹 Италия" },
+    "place": { "en": "Venice", "ru": "Венеция" },
+    "comment": { "en": "Juliano", "ru": "Джулиано" },
+    "coordinates": [12.3152672, 45.4414685]
   },
   {
     "id": 68,
     "when": "2020.04.01",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1585816370/hedgehogs/2020.04.01_068_Hand_Made._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🧵 hand made",
-      "ru": "🧵 сделан сам"
-    },
-    "place": {
-      "en": "home",
-      "ru": "дом"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Brest", "ru": "Брест" },
+    "comment": { "en": "hand made", "ru": "сделан сам" },
+    "coordinates": [23.7636662, 52.0996507]
   },
   {
     "id": 69,
     "when": "2020.05.01",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1588524953/hedgehogs/2020.05.01_069_Sula._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Sula",
-      "ru": "Сула"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Sula", "ru": "Сула" },
+    "coordinates": [26.8738272, 53.742133]
   },
   {
     "id": 70,
     "when": "2020.07.04",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1593953186/hedgehogs/2020.07.04_070_Kamieniec._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Kamenec",
-      "ru": "Каменец"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Kamenec", "ru": "Каменец" },
+    "coordinates": [23.8200111, 52.4034999]
   },
   {
     "id": 71,
     "when": "2020.10.23",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1603620988/hedgehogs/2020.10.23_071_Wildberries._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Brest",
-      "ru": "Брест"
-    },
-    "comment": {
-      "en": "Wildberries",
-      "ru": "Wildberries"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Brest", "ru": "Брест" },
+    "comment": { "en": "Wildberries", "ru": "Wildberries" },
+    "coordinates": [23.7636662, 52.0996507]
   },
   {
     "id": 72,
     "when": "2020.11.08",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1604839317/hedgehogs/2020.11.08_072_Tsum._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Brest",
-      "ru": "Брест"
-    },
-    "comment": {
-      "en": "TSUM",
-      "ru": "ЦУМ"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Brest", "ru": "Брест" },
+    "comment": { "en": "TSUM", "ru": "ЦУМ" },
+    "coordinates": [23.7636662, 52.0996507]
   },
   {
     "id": 73,
     "when": "2021.06.19",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1624866169/hedgehogs/2021.06.19_073_Hrodna._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Grodno",
-      "ru": "Гродно"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Grodno", "ru": "Гродно" },
+    "coordinates": [23.8222673, 53.6687634]
   },
   {
     "id": 74,
     "when": "2021.07.27",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1628592181/hedgehogs/2021.07.27_074_Batumi._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇬🇪 Georgia",
-      "ru": "🇬🇪 Грузия"
-    },
-    "place": {
-      "en": "Batumi",
-      "ru": "Батуми"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇬🇪 Georgia", "ru": "🇬🇪 Грузия" },
+    "place": { "en": "Batumi", "ru": "Батуми" },
+    "coordinates": [41.6367455, 41.6167547]
   },
   {
     "id": 75,
     "when": "2021.08.02",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1628592181/hedgehogs/2021.08.02_075_Tbilisi._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇬🇪 Georgia",
-      "ru": "🇬🇪 Грузия"
-    },
-    "place": {
-      "en": "Tbilisi",
-      "ru": "Тбилиси"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇬🇪 Georgia", "ru": "🇬🇪 Грузия" },
+    "place": { "en": "Tbilisi", "ru": "Тбилиси" },
+    "coordinates": [44.827096, 41.7151377]
   },
   {
     "id": 76,
     "when": "2022.01.16",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1643459060/hedgehogs/2022.01.16_076_Galle._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇱🇰 Sri Lanka",
-      "ru": "🇱🇰 Шри-Ланка"
-    },
-    "place": {
-      "en": "Galle",
-      "ru": "Галле"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇱🇰 Sri Lanka", "ru": "🇱🇰 Шри-Ланка" },
+    "place": { "en": "Galle", "ru": "Галле" },
+    "coordinates": [80.2167912, 6.0328948]
   },
   {
     "id": 77,
     "when": "2022.03.13",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1652024670/hedgehogs/2022.03.13_077_Tashkent._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇺🇿 Uzbekistan",
-      "ru": "🇺🇿 Узбекистан"
-    },
-    "place": {
-      "en": "Tashkent",
-      "ru": "Ташкент"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇺🇿 Uzbekistan", "ru": "🇺🇿 Узбекистан" },
+    "place": { "en": "Tashkent", "ru": "Ташкент" },
+    "coordinates": [69.2400734, 41.2994958]
   },
   {
     "id": 78,
     "when": "2022.05.07",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1652024670/hedgehogs/2022.05.07_078_Mensk._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🏠 Belarus",
-      "ru": "🏠 Беларусь"
-    },
-    "place": {
-      "en": "Minsk",
-      "ru": "Минск"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🏠 Belarus", "ru": "🏠 Беларусь" },
+    "place": { "en": "Minsk", "ru": "Минск" },
+    "coordinates": [27.558972, 53.9006011]
   },
   {
     "id": 79,
     "when": "2022.05.29",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1664086085/hedgehogs/2022.09.24_079_Batumi._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇬🇪 Georgia",
-      "ru": "🇬🇪 Грузия"
-    },
-    "place": {
-      "en": "Batumi",
-      "ru": "Батуми"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇬🇪 Georgia", "ru": "🇬🇪 Грузия" },
+    "place": { "en": "Batumi", "ru": "Батуми" },
+    "coordinates": [41.6367455, 41.6167547]
   },
   {
     "id": 80,
     "when": "2022.07.02",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1664086085/hedgehogs/2022.09.24_080_Mestia._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇬🇪 Georgia",
-      "ru": "🇬🇪 Грузия"
-    },
-    "place": {
-      "en": "Mestia",
-      "ru": "Местиа"
-    },
-    "comment": {
-      "en": "Svaneti",
-      "ru": "Сванетия"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇬🇪 Georgia", "ru": "🇬🇪 Грузия" },
+    "place": { "en": "Mestia", "ru": "Местиа" },
+    "comment": { "en": "Svaneti", "ru": "Сванетия" },
+    "coordinates": [42.6894803, 43.0334614]
   },
   {
     "id": 81,
     "when": "2022.08.28",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1664086084/hedgehogs/2022.09.24_081_Borjomi._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇬🇪 Georgia",
-      "ru": "🇬🇪 Грузия"
-    },
-    "place": {
-      "en": "Borjomi",
-      "ru": "Боржоми"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇬🇪 Georgia", "ru": "🇬🇪 Грузия" },
+    "place": { "en": "Borjomi", "ru": "Боржоми" },
+    "coordinates": [43.3907569, 41.8399528]
   },
   {
     "id": 82,
     "when": "2022.09.03",
     "photo": "https://res.cloudinary.com/zinovik/image/upload/v1664086084/hedgehogs/2022.09.24_082_Mtskheta._Lena.jpg",
-    "who": {
-      "en": "Lena",
-      "ru": "Лена"
-    },
-    "country": {
-      "en": "🇬🇪 Georgia",
-      "ru": "🇬🇪 Грузия"
-    },
-    "place": {
-      "en": "Mtskheta",
-      "ru": "Мцхета"
-    }
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇬🇪 Georgia", "ru": "🇬🇪 Грузия" },
+    "place": { "en": "Mtskheta", "ru": "Мцхета" },
+    "coordinates": [44.7073864, 41.8411674]
+  },
+  {
+    "id": 83,
+    "when": "2022.10.29",
+    "photo": "",
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇵🇱 Poland", "ru": "🇵🇱 Польша" },
+    "place": { "en": "Wroclaw", "ru": "Вроцлав" },
+    "coordinates": [17.0385376, 51.1078852]
+  },
+  {
+    "id": 84,
+    "when": "2022.11.06",
+    "photo": "",
+    "who": { "en": "Max", "ru": "Макс" },
+    "country": { "en": "🇵🇱 Poland", "ru": "🇵🇱 Польша" },
+    "place": { "en": "Zakopane", "ru": "Закопане" },
+    "coordinates": [19.9495621, 49.299181]
+  },
+  {
+    "id": 85,
+    "when": "2022.11.20",
+    "photo": "",
+    "who": { "en": "Lena", "ru": "Лена" },
+    "country": { "en": "🇵🇱 Poland", "ru": "🇵🇱 Польша" },
+    "place": { "en": "Hel", "ru": "Хель" },
+    "coordinates": [18.8007998, 54.6083804]
   }
 ]
